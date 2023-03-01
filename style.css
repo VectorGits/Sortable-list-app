@@ -90,3 +90,14 @@ body {
 .check-btn:focus {
     outline: none;
 }
+
+footer {
+    margin-top: 20px;
+    /* background-color: var(--text-color); */
+}
+
+.footer-text {
+    /* color: var(--background-color); */
+    font-size: 14px;
+    padding: 10px;
+}
