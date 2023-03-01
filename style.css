@@ -92,7 +92,7 @@ body {
 }
 
 footer {
-    margin-top: 20px;
+    margin-top: 10px;
     /* background-color: var(--text-color); */
 }
 
@@ -100,4 +100,5 @@ footer {
     /* color: var(--background-color); */
     font-size: 14px;
     padding: 10px;
+    margin-bottom: 20px;
 }
